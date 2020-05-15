@@ -27,3 +27,6 @@ pod 'XRCategoryKit'
 ## License
 
 XRCategoryKit is available under the MIT license. See the LICENSE file for more info.
+=======
+璇瑞类别远程代码库
+
