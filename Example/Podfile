@@ -1,6 +1,6 @@
-source 'https://github.com/zhouyi123/XRCategoryKit'
-source 'https://github.com/zhouyi123/XRSpecs'
 
+source '[https://github.com/zhouyi123/XRSpecs](https://github.com/zhouyi123/XRSpecs)’
+source '[https://github.com/CocoaPods/Specs.git](https://github.com/CocoaPods/Specs.git)’
 platform :ios, '8.0'
 
 target 'XRCategoryKit_Example' do
