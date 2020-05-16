@@ -1,4 +1,5 @@
-use_frameworks!
+source 'https://github.com/zhouyi123/XRCategoryKit'
+source 'https://github.com/zhouyi123/XRSpecs'
 
 platform :ios, '8.0'
 
