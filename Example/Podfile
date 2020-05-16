@@ -1,5 +1,5 @@
 
-source '[https://github.com/zhouyi123/XRSpecs](https://github.com/zhouyi123/XRSpecs)’
+source '[https://github.com/zhouyi123/XRSpecs.git](https://github.com/zhouyi123/XRSpecs.git)’
 source '[https://github.com/CocoaPods/Specs.git](https://github.com/CocoaPods/Specs.git)’
 platform :ios, '8.0'
 
