@@ -1,4 +1,3 @@
-source 'https://github.com/zhouyi123/XRSpecs.git'
 use_frameworks!
 
 platform :ios, '8.0'
